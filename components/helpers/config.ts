@@ -53,7 +53,7 @@ export const config: Config = {
   },
   helmrelease: {
     color: "#0f1689",
-    icon: "https://cncf-branding.netlify.app/img/projects/helm/icon/white/helm-icon-white.svg",
+    icon: "https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/horizontal/white/helm-horizontal-white.svg",
     size: 30,
   },
   persistentvolumeclaim: {
